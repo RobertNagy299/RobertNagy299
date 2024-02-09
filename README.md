@@ -9,7 +9,6 @@
   -->
   
  - <b>C# (.NET Desktop Applications)</b>
-    - [BTC/USD Converter using Windows Forms](https://github.com/joshmadakor1/EncrypterPOC) <b><i>(Potentially NSFW)</b></i>
     - [Connecting an external database to a C# application](https://github.com/joshmadakor1/EncrypterPOC) 
 
  - <b>PHP/SQL</b>
