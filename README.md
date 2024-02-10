@@ -15,7 +15,7 @@
     - [Complete database for a tower defense game](https://github.com/RobertNagy299/TDGame-Database/tree/main)
 
 
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 
@@ -26,6 +26,7 @@
 
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+-->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
