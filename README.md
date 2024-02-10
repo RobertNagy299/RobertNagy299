@@ -9,7 +9,7 @@
   -->
   
  - <b>C# (.NET Desktop Applications)</b>
-    - [Connecting an external database to a C# application](https://github.com/joshmadakor1/EncrypterPOC) 
+    - [Connecting an external database to a C# application](https://github.com/RobertNagy299/Connecting-an-external-database-to-a-C-application/tree/main) 
 
  - <b>PHP/SQL</b>
     - [Complete database for a tower defense game](https://github.com/joshmadakor1/EncrypterPOC)
