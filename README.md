@@ -14,6 +14,9 @@
  - <b>PHP/SQL</b>
     - [Complete database for a tower defense game](https://github.com/RobertNagy299/TDGame-Database/tree/main)
 
+ - <b>OOP practice</b>
+    - [(Java) Fighting game](https://github.com/RobertNagy299/Java-fighting-game-OOP-practice)
+
 
 <!--
 <h2> 🤳 Connect with me:</h2>
