@@ -4,9 +4,10 @@
 
 - <b>Data Structures and Algorithms Practice (C)</b>
   - [Dragon Curve visualizer in C using linked lists](https://github.com/RobertNagy299/DragonCurveVisualizer)
-<!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  -->
+
+- <b>React javascript projects (Learning Components and React features)</b>
+  - [Simple Calculator app](https://github.com/RobertNagy299/basiccalculator) <b><i></b></i>
+
   
  - <b>C# (.NET Desktop Applications)</b>
     - [Connecting an external database to a C# application](https://github.com/RobertNagy299/Connecting-an-external-database-to-a-C-application/tree/main) 
