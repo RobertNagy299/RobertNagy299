@@ -16,7 +16,7 @@
     - [Complete database for a tower defense game](https://github.com/RobertNagy299/TDGame-Database/tree/main)
 
  - <b>HTML, CSS, PHP Web projects</b>
-    - [University Course project](https://github.com/RobertNagy299/WebdevProject)
+    - [University Course project - Event managing website](https://github.com/RobertNagy299/WebdevProject)
   
 
 
