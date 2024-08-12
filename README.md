@@ -5,8 +5,10 @@
 - <b>Data Structures and Algorithms Practice (C)</b>
   - [Dragon Curve visualizer in C using linked lists](https://github.com/RobertNagy299/DragonCurveVisualizer)
 
-- <b>React javascript projects (Learning Components and React features)</b>
+- <b> React.js Frontend projects </b>
   - [Simple Calculator app](https://github.com/RobertNagy299/basiccalculator) <b><i></b></i>
+  - [Webshop Frontend with Chakra UI](https://github.com/RobertNagy299/webshop-frontend) <b><i></b></i>
+  
 
   
  - <b>C# (.NET Desktop Applications)</b>
