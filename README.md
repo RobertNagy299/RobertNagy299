@@ -8,7 +8,9 @@
 - <b> React.js Frontend projects </b>
   - [Simple Calculator app](https://github.com/RobertNagy299/basiccalculator) <b><i></b></i>
   - [Webshop Frontend with Chakra UI](https://github.com/RobertNagy299/webshop-frontend) <b><i></b></i>
-  
+  - [Landing Page Frontend with Chakra UI, Formik and Yup](https://github.com/RobertNagy299/landing-page-example) <b><i></b></i>
+
+ 
 
   
  - <b>C# (.NET Desktop Applications)</b>
