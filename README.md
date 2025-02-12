@@ -1,9 +1,15 @@
 <h1>Hi, I'm Robert! <br/><!--<a href="https://github.com/joshmadakor1">Programmer</a></h1>-->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>⚙️ DSA Projects: (Data Structures And Algorithms)</h2>
 
-- <b>Data Structures and Algorithms Practice (C)</b>
-  - [Dragon Curve visualizer in C using linked lists](https://github.com/RobertNagy299/DragonCurveVisualizer)
+- <b>For Fun</b>
+   - [Dragon Curve visualizer in C using linked lists (not memory safe)](https://github.com/RobertNagy299/DragonCurveVisualizer)
+
+- <b> CSES Problem Set solutions:</b>
+   - [Range Xor Queries]()
+ 
+     
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> React.js Frontend projects </b>
   - [Simple Calculator app](https://github.com/RobertNagy299/basiccalculator) <b><i></b></i>
