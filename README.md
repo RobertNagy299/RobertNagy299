@@ -6,7 +6,7 @@
    - [Dragon Curve visualizer in C using linked lists (not memory safe)](https://github.com/RobertNagy299/DragonCurveVisualizer)
 
 - <b> CSES Problem Set solutions:</b>
-   - [Range Xor Queries]()
+   - [Range Xor Queries - Python3](https://github.com/RobertNagy299/range-xor-queries-cses)
  
      
 <h2>👨‍💻 Software Development Projects:</h2>
