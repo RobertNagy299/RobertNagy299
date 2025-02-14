@@ -5,8 +5,13 @@
 - <b>For Fun</b>
    - [Dragon Curve visualizer in C using linked lists (not memory safe)](https://github.com/RobertNagy299/DragonCurveVisualizer)
 
-- <b> CSES Problem Set solutions:</b>
+
+- <b> CSES Problem Set Solutions</b>
    - [Range Xor Queries - Python3](https://github.com/RobertNagy299/range-xor-queries-cses)
+
+
+- <b> LeetCode Problem Set Solutions</b>
+   - [Medium](https://github.com/RobertNagy299/medium-leetcode/tree/main)
  
      
 <h2>👨‍💻 Software Development Projects:</h2>
