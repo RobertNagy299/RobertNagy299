@@ -3,6 +3,7 @@
 <h2>⚙️ DSA Projects: (Data Structures And Algorithms)</h2>
 
 - <b>For Fun</b>
+   - [Union Find (Disjoint Set) Visualizer](https://github.com/RobertNagy299/UnionFindVisualizer/tree/main)
    - [Dragon Curve visualizer in C using linked lists (not memory safe)](https://github.com/RobertNagy299/DragonCurveVisualizer)
 
 
