@@ -17,6 +17,9 @@
      
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b> Django projects </b>
+   - [Band Landing page with Webshop](https://github.com/RobertNagy299/django-webshop)
+
 - <b> React.js Frontend projects </b>
   - [Simple Calculator app](https://github.com/RobertNagy299/basiccalculator) <b><i></b></i>
   - [Webshop Frontend with Chakra UI](https://github.com/RobertNagy299/webshop-frontend) <b><i></b></i>
