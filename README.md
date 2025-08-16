@@ -17,6 +17,9 @@
      
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b> Angular projects </b>
+   - [Satellite Sensor Data Visualization](https://github.com/RobertNagy299/pwa-mora-muhold)
+
 - <b> Django projects </b>
    - [Band Landing page with Webshop](https://github.com/RobertNagy299/django-webshop)
 
