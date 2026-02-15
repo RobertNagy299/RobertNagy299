@@ -1,5 +1,9 @@
 <h1>Hi, I'm Robert! <br/><!--<a href="https://github.com/joshmadakor1">Programmer</a></h1>-->
 
+<h2> BSc Thesis </h2>
+
+[A simple relational database management system in C++](https://github.com/RobertNagy299/bsc-thesis)
+
 <h2>⚙️ DSA Projects: (Data Structures And Algorithms)</h2>
 
 - <b>For Fun</b>
